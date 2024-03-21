@@ -9,8 +9,8 @@ Currently, I work at a software house where I am involved in writing new applica
  I'm here to share my journey, projects, and snippets of code that I find interesting or useful. Feel free to explore and reach out if you have any questions or collaboration ideas!
 
 ### 🛠 Technologies & Tools
-- **Frontend:** Typescript, JavaScript, React, Angular, HTML, CSS
-- **Backend:** Node.js, Express, NestJS
+- **Frontend:** Typescript, JavaScript, Angular, React, HTML, CSS
+- **Backend:** NestJS, Node.js, Express, 
 - **Databases:** PostgreSQL
 - **Tools:** Git, Docker, TypeORM
 
@@ -25,7 +25,9 @@ Currently, I work at a software house where I am involved in writing new applica
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julia-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nowickajulia/)
 
 ### ⚡ Fun fact
-I love to explore new technologies and leverage them to solve real-life problems. 
+I love to explore new technologies and leverage them to solve real-life problems.
+In my free time, I train for triathlons.
+I have an Australian Shepherd dog. 
 
 ---
 
