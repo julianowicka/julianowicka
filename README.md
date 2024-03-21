@@ -22,7 +22,7 @@ Currently, I work at a software house where I am involved in writing new applica
 
 
 ### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nowickajulia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julia-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nowickajulia/)
 
 ### ⚡ Fun fact
 I love to explore new technologies and leverage them to solve real-life problems. 
