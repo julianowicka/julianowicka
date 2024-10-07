@@ -24,11 +24,5 @@ Currently, I work at a software house where I am involved in writing new applica
 ### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julia-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nowickajulia/)
 
-### ⚡ Fun fact
-I love to explore new technologies and leverage them to solve real-life problems.
-In my free time, I train for triathlons.
-I have an Australian Shepherd dog. 
-
----
 
 Feel free to check out my repositories and don't hesitate to connect with me on LinkedIn!
