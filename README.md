@@ -1,8 +1,8 @@
 # Hello, I'm Julia! 👋
 
-## Junior Full-Stack Developer
+## Full-Stack Developer
 
-Welcome to my GitHub profile! I'm a Junior Full-Stack Developer with a drive for learning and building web applications that make a difference.
+Welcome to my GitHub profile! I'm a Full-Stack Developer with a drive for learning and building web applications that make a difference.
 
 Currently, I work at a software house where I am involved in writing new applications for clients as well as maintaining existing applications.I am engaged in 4 projects.
 
