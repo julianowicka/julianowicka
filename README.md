@@ -18,7 +18,9 @@ Currently, I work at a software house where I am involved in writing new applica
 - Next.js
 - Prisma
 - Tailwind CSS
-- NextAuth
+- GraphQl
+- MongoDB
+- Java
 
 
 ### 📫 How to reach me
