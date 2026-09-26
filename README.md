@@ -1,30 +1,23 @@
-# Hello, I'm Julia! 👋
+# Julia Nowicka
 
-## Full-Stack Developer
+## Software Engineer
 
-Welcome to my GitHub profile! I'm a Full-Stack Developer with a drive for learning and building web applications that make a difference.
+Based in Szczecin, Poland. I have 3+ years of experience building and maintaining web applications, with a strong focus on frontend engineering and full-stack delivery.
 
-Currently, I work at a software house where I am involved in writing new applications for clients as well as maintaining existing applications.I am engaged in 4 projects.
+I work across client projects, from building new applications to improving production systems and legacy code. I care about clear architecture, thoughtful interfaces, and software that remains easy to maintain as products grow. My experience also includes solutions based on event sourcing.
 
- I'm here to share my journey, projects, and snippets of code that I find interesting or useful. Feel free to explore and reach out if you have any questions or collaboration ideas!
+### Technologies
 
-### 🛠 Technologies & Tools
-- **Frontend:** Typescript, JavaScript, Angular, React, HTML, CSS
-- **Backend:** NestJS, Node.js, Express, 
-- **Databases:** PostgreSQL
-- **Tools:** Git, Docker, TypeORM
+- **Frontend:** React, Angular, TypeScript, RxJS, HTML, CSS
+- **Backend:** Node.js, NestJS, Express
+- **Data & APIs:** PostgreSQL, MongoDB, GraphQL, Prisma, TypeORM
+- **Tools:** Git, Docker
 
-### 📚 I'm currently learning
-- Next.js
-- Prisma
-- Tailwind CSS
-- GraphQl
-- MongoDB
-- Java
+### Current focus
 
+I'm developing my skills in designing and implementing AI agents with code.
 
-### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julia-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nowickajulia/)
+### Connect
 
-
-Feel free to check out my repositories and don't hesitate to connect with me on LinkedIn!
+- [Portfolio](https://www.julianowicka.dev/)
+- [LinkedIn](https://www.linkedin.com/in/nowickajulia/)
