@@ -2,22 +2,8 @@
 
 ## Software Engineer
 
-Based in Szczecin, Poland. I have 3+ years of experience building and maintaining web applications, with a strong focus on frontend engineering and full-stack delivery.
+I develop backend services with Node.js and TypeScript, focusing on microservices and AWS. At ERGO, I work with REST APIs, SQS, ECS, Lambda, CloudWatch, and Amazon Bedrock, including an applied AI solution.
 
-I work across client projects, from building new applications to improving production systems and legacy code. I care about clear architecture, thoughtful interfaces, and software that remains easy to maintain as products grow. My experience also includes solutions based on event sourcing.
+Previously, I built full-stack applications with NestJS, React, Angular, and PostgreSQL. I'm particularly interested in backend architecture, AWS, and practical AI systems.
 
-### Technologies
-
-- **Frontend:** React, Angular, TypeScript, RxJS, HTML, CSS
-- **Backend:** Node.js, NestJS, Express
-- **Data & APIs:** PostgreSQL, MongoDB, GraphQL, Prisma, TypeORM
-- **Tools:** Git, Docker
-
-### Current focus
-
-I'm developing my skills in designing and implementing AI agents with code.
-
-### Connect
-
-- [Portfolio](https://www.julianowicka.dev/)
-- [LinkedIn](https://www.linkedin.com/in/nowickajulia/)
+[Portfolio](https://www.julianowicka.dev/) · [LinkedIn](https://www.linkedin.com/in/nowickajulia/)
